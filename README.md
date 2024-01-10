@@ -1,5 +1,4 @@
 # PERSONAL-BUDGET-TRACKER
-# Budget Tracker Application
 
 ## Overview
 This is a Python-based command-line budget tracker application that helps users manage their financial transactions. The application allows users to record income and expenses, view their transactions, calculate the remaining budget, analyze expenses by category, and exit the application. Transaction details, including category, amount, and date, are stored in a JSON file for future reference.
